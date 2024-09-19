@@ -25,7 +25,7 @@ image_channel_fusions:
 
 subscribers:
   front_cam:
-    topic_name: '/camera/points_downsampled'
+    topic_name: '/livox/lidar_with_new_stamp'
     data_type: pointcloud
 
 #### Publishers ########
