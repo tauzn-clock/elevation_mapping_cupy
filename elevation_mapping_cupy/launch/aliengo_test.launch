@@ -1,5 +1,5 @@
 <launch>
-    <node pkg="tf2_ros" type="static_transform_publisher" name="static_transform_publisher_node" args="0 0 0 0 0 0 /quadruped/base_link /base"/>
+    <!--node pkg="tf2_ros" type="static_transform_publisher" name="static_transform_publisher_node" args="0 0 0 0 0 0 /quadruped/base_link /base"/-->
     <!--node pkg="tf2_ros" type="static_transform_publisher" name="static_transform_publisher_node_2" args="0 0 0 0 0 0 /map /mocap_world" /-->
 
     <!-- Elevation mapping node -->
