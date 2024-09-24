@@ -15,7 +15,7 @@
 #include <opencv2/core/mat.hpp>
 #include <opencv2/imgproc.hpp>
 #include <opencv2/photo.hpp>
-#include <opencv2/xphoto/bm3d_image_denoising.hpp>
+//#include <opencv2/xphoto/bm3d_image_denoising.hpp>
 
 namespace grid_map {
 namespace smoothing {
